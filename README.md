@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://sajjadsheykhi.com">🔗 sajjadsheykhi.com</a> ·
   <a href="https://github.com/sayansheykhi">🐙 GitHub</a> ·
-  <a href="https://linkedin.com/in/sayansheykhi">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/sajjad-sheykhi-a024b7211/">🔗 LinkedIn</a>
 </p>
 
 ---
