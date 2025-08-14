@@ -19,7 +19,7 @@
 | Title                                       | Tech        | Description                                    |
 |---------------------------------------------|-------------|------------------------------------------------|
 | [Parallax Portfolio](https://sajjadsheykhi.com) | React, Three.js, Tailwind | 3D parallax personal site launched in 48 hrs   |
-| [Color‑Based Object Detection](https://github.com/sayansheykhi/color-based_object_detection) | Python, OpenCV        | ML tool to detect and localize colorful objects |
+| [Color‑Based Object Detection](https://github.com/sayansheykhi/color-based_object_detection) | Java        | ML tool to detect and localize colorful objects |
 | [StudySync QA Tool](https://github.com/sayansheykhi/StudySync-Real-time-QA-Peer-Feedback-Tool) | JavaFX, H2 DB         | Desktop app for real‑time Q&A & peer review     |
 
 ---
