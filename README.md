@@ -1,5 +1,5 @@
 <!--–––– Profile Header ––––-->
-<h1 align="center">Hi 👋, I'm Sayan Sheykhi</h1>
+<h1 align="center">Hi 👋, I'm Sajjad Sheykhi</h1>
 <p align="center">
   <a href="https://sajjadsheykhi.com">🔗 sajjadsheykhi.com</a> ·
   <a href="https://github.com/sayansheykhi">🐙 GitHub</a> ·
