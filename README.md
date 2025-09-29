@@ -18,7 +18,7 @@
 ## 💼 Projects
 | Title                                       | Tech        | Description                                    |
 |---------------------------------------------|-------------|------------------------------------------------|
-| [Flutter-App]([https://sajjadsheykhi.com](https://github.com/Sayansheykhi/flutter_messaging_assessment/tree/main)) | flutter   | messaging app and dashboard for admin
+| [Flutter-App]([https://sajjadsheykhi.com](https://github.com/Sayansheykhi/flutter_messaging_assessment) | flutter   | messaging app and dashboard for admin
 | [Color‑Based Object Detection](https://github.com/sayansheykhi/color-based_object_detection) | Java        | ML tool to detect and localize colorful objects |
 | [StudySync QA Tool](https://github.com/sayansheykhi/StudySync-Real-time-QA-Peer-Feedback-Tool) | JavaFX, H2 DB         | Desktop app for real‑time Q&A & peer review     |
 
