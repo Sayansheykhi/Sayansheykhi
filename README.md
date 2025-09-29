@@ -18,7 +18,7 @@
 ## 💼 Projects
 | Title                                       | Tech        | Description                                    |
 |---------------------------------------------|-------------|------------------------------------------------|
-| [Parallax Portfolio](https://sajjadsheykhi.com) | React, Three.js, Tailwind | 3D parallax personal site launched in 48 hrs   |
+| [Flutter-App]([https://sajjadsheykhi.com](https://github.com/Sayansheykhi/flutter_messaging_assessment/tree/main)) |   |
 | [Color‑Based Object Detection](https://github.com/sayansheykhi/color-based_object_detection) | Java        | ML tool to detect and localize colorful objects |
 | [StudySync QA Tool](https://github.com/sayansheykhi/StudySync-Real-time-QA-Peer-Feedback-Tool) | JavaFX, H2 DB         | Desktop app for real‑time Q&A & peer review     |
 
