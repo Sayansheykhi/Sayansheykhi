@@ -18,9 +18,12 @@
 ## 💼 Projects
 | Title                                       | Tech        | Description                                    |
 |---------------------------------------------|-------------|------------------------------------------------|
-| [Flutter-App](https://github.com/Sayansheykhi/flutter_messaging_assessment) | flutter   | messaging app and dashboard for admin
-| [Color‑Based Object Detection](https://github.com/sayansheykhi/color-based_object_detection) | Java        | ML tool to detect and localize colorful objects |
-| [StudySync QA Tool](https://github.com/sayansheykhi/StudySync-Real-time-QA-Peer-Feedback-Tool) | JavaFX, H2 DB         | Desktop app for real‑time Q&A & peer review     |
+| [Advanced Privacy Browswer] (https://github.com/Sayansheykhi/Eclipso)|  Python | Fully functional Browswer that advanced security and stealth mode |
+| [Flutter-App](https://github.com/Sayansheykhi/flutter_messaging_assessment) | Flutter     | Messaging app and dashboard for admin          |
+| [Color-Based Object Detection](https://github.com/sayansheykhi/color-based_object_detection) | Java        | ML tool to detect and localize colorful objects |
+| [StudySync QA Tool](https://github.com/sayansheykhi/StudySync-Real-time-QA-Peer-Feedback-Tool) | JavaFX, H2 DB | Desktop app for real-time Q&A & peer review     |
+| [FlowSight Engine](https://github.com/sayansheykhi/flowsight) | Python, WebSocket | Institutional-grade order-flow engine for crypto/gold |
+| [TurboVets Admin Dashboard](https://github.com/sayansheykhi/turbovets_dashboard) | Flutter, Angular | Veterinary messaging & scheduling platform     |
 
 ---
 
