@@ -8,14 +8,14 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🎓 Senior Computer Science student at ASU (Barrett Honors)  
 - 🛠️ I build full‑stack apps in React, Node.js, C++ & Java  
 - 🔍 Passionate about OS internals & data‑driven interfaces  
 
 ---
 
-## 💼 Projects
+##  Projects
 | Title                                       | Tech        | Description                                    |
 |---------------------------------------------|-------------|------------------------------------------------|
 | [Advanced Privacy Browswer](https://github.com/Sayansheykhi/Eclipso) |  Python | Fully functional Browswer that advanced security and stealth mode |
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
