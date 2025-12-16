@@ -35,8 +35,3 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ---
-
-## 🎯 Interests & Hobbies
-- 🏄 Surfing  
-- 🏋️‍♂️ Weightlifting  
-- 🎸 Music production  
