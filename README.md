@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sajjad Sheykhi</h1>
 <p align="center">
   <a href="https://sajjadsheykhi.com"> sajjadsheykhi.com</a> ·
-  <a href="https://github.com/sayansheykhi"> GitHub</a> ·
+  
   <a href="https://www.linkedin.com/in/sajjad-sheykhi-a024b7211/"> LinkedIn</a>
 </p>
 
